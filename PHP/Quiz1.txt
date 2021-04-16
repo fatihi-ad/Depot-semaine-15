@@ -1,0 +1,39 @@
+<!-- Résultats du Quiz PHP débutant
+Que signifie PHP ?
+
+PHP: Hypertext Preprocessor (correct)
+
+Quelle fonction retourne la longueur d'une chaîne de texte ?
+
+strlen 
+
+Comment accède-t-on au 1er élément chaton dans le tableau suivant : $tableau = Array('chaton' , 'ornithorynque', 'dauphin'); ?
+
+$tableau[0] 
+
+Comment vérifie-t-on l'égalité de deux variables : $a et $b ?
+
+$a == $b 
+
+Quelle est l'utilité de l'opérateur || ?
+
+Il sert à vérifier qu'une, au moins, des conditions est réalisée. 
+
+Quelles valeurs peut prendre le type booléen ?
+
+TRUE ou FALSE 
+
+La boucle for ($i=0 ; $i<=3 ; $i++ ) { echo $i; }...
+
+Sera éxécutée 4 fois
+Sachant que $a = 4. Quelle instruction affiche : 4 = quatre ?
+
+echo "$a = quatre";
+
+Sachant que $dodo = 6. Quelle est la valeur de ma nuit : $dodo += 2; ?
+
+8 
+
+Dans le cas d'envoi d'informations plus ou moins sensibles par formulaire, quelle méthode utilisera-t-on de préférence ?
+
+post 
